@@ -2,7 +2,7 @@
 
 Objetivo:
 
-- Desenvolver a interface das duas primeiras telas de um aplicativo móvel (Welcome e Login), com base no protótipo e design fornecidos.
+- Desenvolver a interface das telas de um aplicativo móvel (Welcome, Login e Cadastro), com base no protótipo e design fornecidos.
 
 Recursos:
 
@@ -10,7 +10,7 @@ Recursos:
 
 Instruções:
 
-1. Utilize o design fornecido no protótipo do Figma para criar as duas primeiras telas do aplicativo.
+1. Utilize o design fornecido no protótipo do Figma para criar as telas do aplicativo.
 2. O aplicativo deve seguir as melhores práticas de design e usabilidade para garantir uma experiência fluida para o usuário.
 3. Certifique-se de que a interface seja responsiva e compatível com dispositivos móveis de diferentes tamanhos de tela.
 4. Utilize React Native como framework para o desenvolvimento do aplicativo.
